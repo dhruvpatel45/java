@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class studentinfo{
+class studentinfo{
     public int endroll;
     public String Name;
     public int age;
